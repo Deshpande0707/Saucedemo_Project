@@ -1,0 +1,652 @@
+1687000558684	geckodriver	INFO	Listening on 127.0.0.1:50675
+1687000561716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileE8rI79"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687000562028	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687000562034	Marionette	INFO	Listening on port 50683
+Read port: 50683
+WebDriver BiDi listening on ws://127.0.0.1:50676
+1687000562160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50676/devtools/browser/d82ee404-c0a3-4e90-aa05-ff4ce11ab269
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1687000566153	Marionette	INFO	Stopped listening on port 50683
+Dynamically enable window occlusion 1
+[Parent 34092, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+1687000567114	geckodriver	INFO	Listening on 127.0.0.1:50711
+1687000570169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofile96a3Bx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687000570450	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687000570455	Marionette	INFO	Listening on port 50719
+Read port: 50719
+WebDriver BiDi listening on ws://127.0.0.1:50712
+1687000570582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50712/devtools/browser/9e35e0c7-3a83-42dc-a321-5584b0a2ac29
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1687000578832	Marionette	INFO	Stopped listening on port 50719
+Dynamically enable window occlusion 1
+1687000579833	geckodriver	INFO	Listening on 127.0.0.1:50753
+1687000582859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileGVMNNV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687000583114	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687000583119	Marionette	INFO	Listening on port 50775
+Read port: 50775
+WebDriver BiDi listening on ws://127.0.0.1:50754
+1687000583250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50754/devtools/browser/811c2a2e-dc01-4551-a9f5-59d5fbdf4a58
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1687000591883	Marionette	INFO	Stopped listening on port 50775
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1687000594121	geckodriver	INFO	Listening on 127.0.0.1:50841
+1687000597187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileAoIHnH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687000597455	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687000597460	Marionette	INFO	Listening on port 50850
+Read port: 50850
+WebDriver BiDi listening on ws://127.0.0.1:50842
+1687000597593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50842/devtools/browser/92487aab-adf0-41b0-92e5-286a23d23875
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1687000606211	Marionette	INFO	Stopped listening on port 50850
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1687001570788	geckodriver	INFO	Listening on 127.0.0.1:51113
+1687001573834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofiletvIxsV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687001574112	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687001574117	Marionette	INFO	Listening on port 51121
+Read port: 51121
+WebDriver BiDi listening on ws://127.0.0.1:51114
+1687001574248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51114/devtools/browser/08b2a84c-27e7-420c-95e6-6f78f703460f
+1687001576791	geckodriver	INFO	Listening on 127.0.0.1:51132
+1687001579829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileSpuWsG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687001580103	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687001580109	Marionette	INFO	Listening on port 51154
+Read port: 51154
+WebDriver BiDi listening on ws://127.0.0.1:51133
+1687001580252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51133/devtools/browser/d5ee323c-5fa8-4503-879c-fb0706895c77
+1687001582216	geckodriver	INFO	Listening on 127.0.0.1:51164
+1687001585250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileLYz1Qs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687001585606	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687001585612	Marionette	INFO	Listening on port 51187
+Read port: 51187
+WebDriver BiDi listening on ws://127.0.0.1:51165
+1687001585793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51165/devtools/browser/5f82c518-cb02-4c61-b6cd-5417055a0bd7
+1687001588103	geckodriver	INFO	Listening on 127.0.0.1:51199
+1687001591133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51200" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileZ3uqR0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687001591541	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687001591546	Marionette	INFO	Listening on port 51221
+Read port: 51221
+WebDriver BiDi listening on ws://127.0.0.1:51200
+1687001591707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51200/devtools/browser/74d694d3-f8f2-4481-b36e-f89997ae96ab
+1687003019541	geckodriver	INFO	Listening on 127.0.0.1:52067
+1687003022578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileNwLMOE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687003022878	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687003022883	Marionette	INFO	Listening on port 52087
+Read port: 52087
+WebDriver BiDi listening on ws://127.0.0.1:52068
+1687003023010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52068/devtools/browser/bf1953bd-0d3e-41a3-a36b-1c593567b740
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1687003026625	Marionette	INFO	Stopped listening on port 52087
+Dynamically enable window occlusion 1
+1687003027463	geckodriver	INFO	Listening on 127.0.0.1:52118
+1687003030491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofilexBLBLL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687003030795	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687003030799	Marionette	INFO	Listening on port 52126
+Read port: 52126
+WebDriver BiDi listening on ws://127.0.0.1:52119
+1687003030932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52119/devtools/browser/e1bcc86f-2193-4de3-84e9-6f414054eae9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1687003038856	Marionette	INFO	Stopped listening on port 52126
+Dynamically enable window occlusion 1
+1687003039726	geckodriver	INFO	Listening on 127.0.0.1:52161
+1687003042767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52162" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileR5rI42"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687003043046	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687003043051	Marionette	INFO	Listening on port 52169
+Read port: 52169
+WebDriver BiDi listening on ws://127.0.0.1:52162
+1687003043182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52162/devtools/browser/32696228-cfc7-4631-979a-1aa00dffe065
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1687003051131	Marionette	INFO	Stopped listening on port 52169
+Dynamically enable window occlusion 1
+1687003051989	geckodriver	INFO	Listening on 127.0.0.1:52203
+1687003055036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52204" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileQ7VIFa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687003055321	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687003055327	Marionette	INFO	Listening on port 52211
+Read port: 52211
+WebDriver BiDi listening on ws://127.0.0.1:52204
+1687003055457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52204/devtools/browser/7eba79ca-c290-45ce-b691-c5cfaae82ddd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1687003063378	Marionette	INFO	Stopped listening on port 52211
+Dynamically enable window occlusion 1
+1687006798848	geckodriver	INFO	Listening on 127.0.0.1:53771
+1687006801912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53772" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileUzonZ9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1687006802740	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1687006802758	Marionette	INFO	Listening on port 53789
+Read port: 53789
+WebDriver BiDi listening on ws://127.0.0.1:53772
+1687006803050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53772/devtools/browser/80ae9bc6-af1f-4229-9cf7-35f8bb2e500f
+1741668182683	geckodriver	INFO	Listening on 127.0.0.1:54561
+1741668185781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofiletgRnbp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741668186384	Marionette	INFO	Marionette enabled
+1741668186632	Marionette	INFO	Listening on port 54569
+WebDriver BiDi listening on ws://127.0.0.1:54562
+Read port: 54569
+1741668187362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+Exiting due to channel error.
+Exiting due to channel error.
+fox\\firefox.exe" "--marionette" "--remote-debugging-port" "54736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileQ367qS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741668492206	Marionette	INFO	Marionette enabled
+1741668492512	Marionette	INFO	Listening on port 54743
+WebDriver BiDi listening on ws://127.0.0.1:54736
+Read port: 54743
+1741668492936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SQLite JSM (Connection content-prefs.sqlite#0): "Error during transaction requested by CPS2__dbCreateSchema@ContentPrefService2.sys.mjs. Rolling back" (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.sys.mjs", 1093))
+[GFX1-]: shader-cache: Failed to create file: There is not enouconsole.error: (new NotReadableError("Could not write to `C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileQ367qS\\extensions.json.tmp': failed to write chunk; the file may be corrupt (NS_ERROR_FILE_NO_DEVICE_SPACE)", (void 0)))
+console.error: (new NotReadableError("Could not create directory `C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileQ367qS\\datareporting' (NS_ERROR_FILE_NO_DEVICE_SPACE)", (void 0)))
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:   The current transaction exceeded its quota limitations."
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:   The current transaction exceeded its quota limitations."
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:   The current transaction exceeded its quota limitations."
+console.error: (new NotReadableError("Could not write to `C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileQ367qS\\containers.json.tmp': failed to open file for writing (NS_ERROR_FILE_NO_DEVICE_SPACE)", (void 0)))
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:   The current transaction exceeded its quota limitations."
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1093: Error: Error(s) encountered during statement execution: database or disk is full
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:   The current transaction exceeded its quota limitations."
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:   The current transaction exceeded its quota limitations."
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:   The current transaction exceeded its quota limitations."
+JavaScript error: https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js, line 2: NS_ERROR_FAILURE: 
+console.error: ({})
+console.error: (new NotReadableError("Could not write to `C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileQ367qS\\startupCache\\webext.sc.lz4.tmp': failed to write chunk; the file may be corrupt (NS_ERROR_FILE_NO_DEVICE_SPACE)", (void 0)))
+console.error: "Could not write session state file " (new NotReadableError("Could not write to `C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileQ367qS\\sessionstore-backups\\recovery.jsonlz4.tmp': failed to write chunk; the file may be corrupt (NS_ERROR_FILE_NO_DEVICE_SPACE)", (void 0))) ""
+console.error: (new NotReadableError("Could not write to `C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileQ367qS\\extensions.json.tmp': failed to write chunk; the file may be corrupt (NS_ERROR_FILE_NO_DEVICE_SPACE)", (void 0)))
+console.error: (new UnknownError("IndexedDB: main/nimbus-desktop-experiments getLastModified() IndexedDB:  execute() The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+JavaScript error: , line 0: NotReadableError: Could not write to `C:\Users\mukes\AppData\Local\Temp\rust_mozprofileQ367qS\xulstore.json.tmp': failed to open file for writing (NS_ERROR_FILE_NO_DEVICE_SPACE)
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1093: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: , line 0: NotReadableError: Could not write to `C:\Users\mukes\AppData\Local\Temp\rust_mozprofileQ367qS\datareporting\aborted-session-ping.tmp': failed to open file for writing (NS_ERROR_FILE_NO_DEVICE_SPACE)
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.saucedemo.com/" ({})
+console.error: "buildList failed: " ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+s" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileSzAYQC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741668609800	Marionette	INFO	Marionette enabled
+1741668610707	Marionette	INFO	Listening on port 54846
+WebDriver BiDi listening on ws://127.0.0.1:54826
+Read port: 54846
+1741668611428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1365
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1741668662332	geckodriver	INFO	Listening on 127.0.0.1:54906
+1741668665710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofilefubjO7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741668666392	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/crypto-SDR.sys.mjs, line 85: NS_ERROR_ABORT: User canceled primary password entry
+1741668666641	Marionette	INFO	Listening on port 54915
+WebDriver BiDi listening on ws://127.0.0.1:54907
+JavaScript error: resource://gre/modules/crypto-SDR.sys.mjs, line 85: NS_ERROR_ABORT: User canceled primary password entry
+Read port: 54915
+1741668667431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: shader-cache: Failed to write program binary: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to write program binary: There is not enough space on the disk. (os error 112)
+console.error: (new NotReadableError("Could not write to `C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofilefubjO7\\extensions.json.tmp': failed to write chunk; the file may be corrupt (NS_ERROR_FILE_NO_DEVICE_SPACE)", (void 0)))
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create f[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+ile: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-][ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: [ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to write program binary: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to write program binary: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+console.error: SQLite JSM (Connection content-prefs.sqlite#0): "Setting auto_vacuum to INCREMENTAL failed."
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.sys.mjs", 1093))
+console.error: (new TypeError("connection not specified or invalid.", "resource://gre/modules/Sqlite.sys.mjs", 1590))
+console.error: (new TypeError("db is undefined", "resource://gre/modules/PlacesUtils.sys.mjs", 1510))
+[GFX1-]: shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to create file: There is not enough space on the disk. (os error 112)
+[GFX1-]: shader-cache: Failed to write startup whitelist: There is not enough space on the disk. (os error 112)
+[ERROR webrender_bindings::program_cache] shader-cache: Failed to write startup whitelist: There is not enough space on the disk. (os error 112)
+console.error: SQLite JSM (Connection content-prefs.sqlite#0): (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.sys.mjs", 1093))
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.sys.mjs", 1093))
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1093: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1093: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1093: Error: Error(s) encountered during statement execution: database or disk is full
+console.error: (new NotReadableError("Could not write to `C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofilefubjO7\\startupCache\\webext.sc.lz4.tmp': failed to write chunk; the file may be corrupt (NS_ERROR_FILE_NO_DEVICE_SPACE)", (void 0)))
+console.error: (new NotReadableError("Could not write to `C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofilefubjO7\\startupCache\\webext.sc.lz4.tmp': failed to write chunk; the file may be corrupt (NS_ERROR_FILE_NO_DEVICE_SPACE)", (void 0)))
+1741668951709	geckodriver	INFO	Listening on 127.0.0.1:55222
+1741668954831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofilevki5fQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741668955634	Marionette	INFO	Marionette enabled
+1741668955876	Marionette	INFO	Listening on port 55230
+Read port: 
+1741668955891	geckodriver::browser	WARN	Failed fo convert  to u16
+WebDriver BiDi listening on ws://127.0.0.1:55223
+Read port: 55230
+1741668956362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1741669020443	geckodriver	INFO	Listening on 127.0.0.1:55298
+1741669023458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofile2CwBuG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741669024194	Marionette	INFO	Marionette enabled
+1741669025448	Marionette	INFO	Listening on port 55309
+WebDriver BiDi listening on ws://127.0.0.1:55299
+Read port: 55309
+1741669025782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+Exiting due to channel error.
+Listening on 127.0.0.1:55500
+1741669152503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofile9Gq5AU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741669153158	Marionette	INFO	Marionette enabled
+1741669153467	Marionette	INFO	Listening on port 55510
+WebDriver BiDi listening on ws://127.0.0.1:55501
+Read port: 55510
+1741669153929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+Exiting due to channel error.
+Exiting due to channel error.
+1741684721549	geckodriver	INFO	Listening on 127.0.0.1:64208
+1741684724631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileUJABnM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741684736216	Marionette	INFO	Marionette enabled
+1741684740997	Marionette	INFO	Listening on port 64269
+WebDriver BiDi listening on ws://127.0.0.1:64209
+Read port: 
+174161741684742427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to compile vertex shader: cs_blur_COLOR_TARGET
+
+[ERROR webreHit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1365
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: Cconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 413))
+WARNING: At least one completion conExiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+state":{"remoteTypePrefix":"webIsolated"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3725,"stack":""}] Barrier: profile-before-change
+rmalShutdown
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: ps_text_run_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_text_run_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524800, w=576, h=405)
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: OutOfMemory
+JavaScript error: , line 0: uncaught exception: out of memory
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1365
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://activity-stream/lib/PlacesFeed.sys.mjs, line 203: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]
+1741684754701	Marionette	INFO	Stopped listening on port 64269
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524288, w=576, h=512)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=405)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524800, w=576, h=405)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_COLOR_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_COLOR_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_COLOR_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_border_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_COLOR_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_box_shadow_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_mask_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_border_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_linear_gradient", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_box_shadow_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_mask_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_ANTIALIASING_REPETITION_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: OutOfMemory
+out of memory: 0x0000000000100000 bytes requested
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: Failed to create WebRenderBridgeChild.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PCompositorBridge::Msg_NotifyChildRecreated Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1741684761183	Marionette	INFO	Stopped listening on port 64266
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1741718046438	geckodriver	INFO	Listening on 127.0.0.1:50827
+1741718049498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50828" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofilexXUI91"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741718050034	Marionette	INFO	Marionette enabled
+1741718050215	Marionette	INFO	Listening on port 50836
+Read port: 
+1741718050228	geckodriver::browser	WARN	Failed fo convert  to u16
+WebDriver BiDi listening on ws://127.0.0.1:50828
+Read port: 50836
+1741718050655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1741720961661	Marionette	INFO	Stopped listening on port 50836
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1296: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\mukes\AppData\Local\Temp\rust_mozprofilexXUI91\protections.sqlite
+dules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17|
+  - prototype Object
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1296: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\mukes\AppData\Local\Temp\rust_mozprofileiZgKfv\protections.sqlite
+nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17|
+  - prototype Object
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1296: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\mukes\AppData\Local\Temp\rust_mozprofileaW5TKg\protections.sqlite
+1741759726945	geckodriver	INFO	Listening on 127.0.0.1:58396
+1741759730061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mukes\\AppData\\Local\\Temp\\rust_mozprofileZnsvIB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1741759730496	Marionette	INFO	Marionette enabled
+1741759730668	Marionette	INFO	Listening on port 58408
+WebDriver BiDi listening on ws://127.0.0.1:58397
+Read port: 58408
+1741759731035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1741761912880	Marionette	INFO	Stopped listening on port 58408
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumbconsole.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|
+  - prototype Object
+umnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://gre/modules/AsyncShutdown.sys.mjs","name":"observe","sourceId":15,"lineNumber":569,"columnNumber":17,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/t!!! error running onStopped callback: TypeError: callback is not a function
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":268,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":219,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetchLatestChanges","sourceId":24,"lineNumber":429,"columnNumber":34,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"sync","sourceId":22,"lineNumber":625,"columnNumber":42,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"get/this._importingPromise<","sourceId":22,"lineNumber":477,"columnNumber":28,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://gre/modules/AsyncShutdown.sys.mjs","name":"observe","sourceId":15,"lineNumber":569,"columnNumber":17,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:268:15\nfetch@resource://services-settings/Utils.sys.mjs:219:12\nfetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34\nsync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42\nget/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:268:15|fetch@resource://services-settings/Utils.sys.mjs:219:12|fetchLatestChanges@resource://services-settings/Utils.sys.mjs:429:34|sync@resource://services-settings/RemoteSettingsClient.sys.mjs:625:42|get/this._importingPromise<@resource://services-settings/RemoteSettingsClient.sys.mjs:477:28|observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17|
+  - prototype Object

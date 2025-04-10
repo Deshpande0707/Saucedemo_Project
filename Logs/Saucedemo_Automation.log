@@ -1,0 +1,78 @@
+ 2023-06-07 15:14:27,870 : INFO : Test_Login : test_login01 : 32 : start to cheking test login001
+ 2023-06-07 15:14:27,871 : INFO : Test_Login : test_login01 : 33 : Opening Browser
+ 2023-06-07 15:14:29,090 : INFO : Test_Login : test_login01 : 35 :  Go to this Url https://www.saucedemo.com/
+ 2023-06-07 15:14:29,266 : INFO : Test_Login : test_login01 : 38 : Enter Username -->standard_user
+ 2023-06-07 15:14:29,349 : INFO : Test_Login : test_login01 : 40 : Enter password-->secret_sauce
+ 2023-06-07 15:14:29,755 : INFO : Test_Login : test_login01 : 42 : CLick to login
+ 2023-06-07 15:14:29,984 : INFO : Test_Login : test_login01 : 44 : click to Menu Button
+ 2023-06-07 15:14:30,220 : INFO : Test_Login : test_login01 : 46 : click to Logout Button
+ 2023-06-07 15:20:22,242 : INFO : Test_Login : test_login01 : 32 : start to cheking test login001
+ 2023-06-07 15:20:22,242 : INFO : Test_Login : test_login01 : 33 : Opening Browser
+ 2023-06-07 15:20:23,672 : INFO : Test_Login : test_login01 : 35 :  Go to this Url https://www.saucedemo.com/
+ 2023-06-07 15:20:23,811 : INFO : Test_Login : test_login01 : 38 : Enter Username -->standard_user
+ 2023-06-07 15:20:23,884 : INFO : Test_Login : test_login01 : 40 : Enter password-->secret_sauce
+ 2023-06-07 15:20:24,297 : INFO : Test_Login : test_login01 : 42 : CLick to login
+ 2023-06-07 15:20:24,533 : INFO : Test_Login : test_login01 : 45 : click to Menu Button
+ 2023-06-07 15:20:24,789 : INFO : Test_Login : test_login01 : 47 : click to Logout Button
+ 2023-06-07 15:21:30,548 : INFO : Test_Login : test_login01 : 32 : start to cheking test login001
+ 2023-06-07 15:21:30,549 : INFO : Test_Login : test_login01 : 33 : Opening Browser
+ 2023-06-07 15:21:32,397 : INFO : Test_Login : test_login01 : 35 :  Go to this Url https://www.saucedemo.com/
+ 2023-06-07 15:21:32,903 : INFO : Test_Login : test_login01 : 38 : Enter Username -->standard_user
+ 2023-06-07 15:21:32,959 : INFO : Test_Login : test_login01 : 40 : Enter password-->secret_sauce
+ 2023-06-07 15:21:33,568 : INFO : Test_Login : test_login01 : 42 : CLick to login
+ 2023-06-07 15:21:33,824 : INFO : Test_Login : test_login01 : 45 : click to Menu Button
+ 2023-06-07 15:21:34,240 : INFO : Test_Login : test_login01 : 47 : click to Logout Button
+ 2023-06-07 15:36:02,700 : INFO : Test_Login : test_login01 : 32 : start to cheking test login001
+ 2023-06-07 15:36:02,700 : INFO : Test_Login : test_login01 : 33 : Opening Browser
+ 2023-06-07 15:36:04,399 : INFO : Test_Login : test_login01 : 35 :  Go to this Url https://www.saucedemo.com/
+ 2023-06-07 15:36:04,591 : INFO : Test_Login : test_login01 : 38 : Enter Username -->standard_user
+ 2023-06-07 15:36:04,655 : INFO : Test_Login : test_login01 : 40 : Enter password-->secret_sauce
+ 2023-06-07 15:36:05,085 : INFO : Test_Login : test_login01 : 42 : CLick to login
+ 2023-06-07 15:36:05,451 : INFO : Test_Login : test_login01 : 46 : click to Menu Button
+ 2023-06-07 15:36:05,706 : INFO : Test_Login : test_login01 : 48 : click to Logout Button
+ 2023-06-07 15:55:56,873 : INFO : Test_AddProduct : test_addpro : 15 : test case addpro is started
+ 2023-06-07 15:55:56,873 : INFO : Test_AddProduct : test_addpro : 16 : Opening Browser
+ 2023-06-07 15:55:59,599 : INFO : Test_AddProduct : test_addpro : 18 :  go to this Url-->https://www.saucedemo.com/
+ 2023-06-07 15:55:59,807 : INFO : Test_AddProduct : test_addpro : 21 : Enter Username-->standard_user
+ 2023-06-07 15:56:40,646 : INFO : Test_AddProduct : test_addpro : 15 : test case addpro is started
+ 2023-06-07 15:56:40,647 : INFO : Test_AddProduct : test_addpro : 16 : Opening Browser
+ 2023-06-07 15:56:41,994 : INFO : Test_AddProduct : test_addpro : 18 :  go to this Url-->https://www.saucedemo.com/
+ 2023-06-07 15:56:42,191 : INFO : Test_AddProduct : test_addpro : 21 : Enter Username-->standard_user
+ 2023-06-07 15:56:42,318 : INFO : Test_AddProduct : test_addpro : 23 : Enter password -->secret_sauce
+ 2023-06-07 15:56:42,766 : INFO : Test_AddProduct : test_addpro : 25 : Enter login-->
+ 2023-06-07 15:56:43,001 : INFO : Test_AddProduct : test_addpro : 29 : add to cart product
+ 2023-06-07 15:56:43,241 : INFO : Test_AddProduct : test_addpro : 31 : click to shoping
+ 2023-06-07 15:56:43,490 : INFO : Test_AddProduct : test_addpro : 33 : click to the continue
+ 2023-06-07 15:56:43,711 : INFO : Test_AddProduct : test_addpro : 35 :  add to the cart
+ 2023-06-07 15:56:44,023 : INFO : Test_AddProduct : test_addpro : 37 : click to the continue
+ 2023-06-07 15:56:44,259 : INFO : Test_AddProduct : test_addpro : 39 : click to the cheakout
+ 2023-06-07 15:56:44,307 : INFO : Test_AddProduct : test_addpro : 41 : Enter the first name
+ 2023-06-07 15:56:44,403 : INFO : Test_AddProduct : test_addpro : 43 : Enter the last name
+ 2023-06-07 15:56:44,467 : INFO : Test_AddProduct : test_addpro : 45 : Enter the zipcode
+ 2023-06-07 15:56:44,707 : INFO : Test_AddProduct : test_addpro : 47 : Enter the click continue
+ 2023-06-07 15:56:44,943 : INFO : Test_AddProduct : test_addpro : 49 : click to the finish
+ 2023-06-10 14:40:34,218 : INFO : Test_AddProduct : test_addpro : 15 : test case addpro is started
+ 2023-06-10 14:40:34,219 : INFO : Test_AddProduct : test_addpro : 16 : Opening Browser
+ 2023-06-10 14:40:40,776 : INFO : Test_AddProduct : test_addpro : 18 :  go to this Url-->https://www.saucedemo.com/
+ 2023-06-10 14:40:41,104 : INFO : Test_AddProduct : test_addpro : 21 : Enter Username-->standard_user
+ 2023-06-10 14:40:41,351 : INFO : Test_AddProduct : test_addpro : 23 : Enter password -->secret_sauce
+ 2023-06-10 14:40:41,741 : INFO : Test_AddProduct : test_addpro : 25 : Enter login-->
+ 2023-06-10 14:40:42,001 : INFO : Test_AddProduct : test_addpro : 29 : add to cart product
+ 2023-06-10 14:40:42,248 : INFO : Test_AddProduct : test_addpro : 31 : click to shoping
+ 2023-06-10 14:40:42,495 : INFO : Test_AddProduct : test_addpro : 33 : click to the continue
+ 2023-06-10 14:40:42,716 : INFO : Test_AddProduct : test_addpro : 35 :  add to the cart
+ 2023-06-10 14:40:42,950 : INFO : Test_AddProduct : test_addpro : 37 : click to the continue
+ 2023-06-10 14:40:43,185 : INFO : Test_AddProduct : test_addpro : 39 : click to the cheakout
+ 2023-06-10 14:40:43,211 : INFO : Test_AddProduct : test_addpro : 41 : Enter the first name
+ 2023-06-10 14:40:43,263 : INFO : Test_AddProduct : test_addpro : 43 : Enter the last name
+ 2023-06-10 14:40:43,315 : INFO : Test_AddProduct : test_addpro : 45 : Enter the zipcode
+ 2023-06-10 14:40:43,562 : INFO : Test_AddProduct : test_addpro : 47 : Enter the click continue
+ 2023-06-10 14:40:43,796 : INFO : Test_AddProduct : test_addpro : 49 : click to the finish
+ 2023-06-16 13:48:24,060 : INFO : Test_Login : test_login01 : 32 : start to cheking test login001
+ 2023-06-16 13:48:24,060 : INFO : Test_Login : test_login01 : 33 : Opening Browser
+ 2023-06-16 13:48:30,317 : INFO : Test_Login : test_login01 : 35 :  Go to this Url https://www.saucedemo.com/
+ 2023-06-16 13:48:30,406 : INFO : Test_Login : test_login01 : 38 : Enter Username -->standard_user
+ 2023-06-16 13:48:30,461 : INFO : Test_Login : test_login01 : 40 : Enter password-->secret_sauce
+ 2023-06-16 13:48:30,791 : INFO : Test_Login : test_login01 : 42 : CLick to login
+ 2023-06-16 13:48:31,082 : INFO : Test_Login : test_login01 : 46 : click to Menu Button
+ 2023-06-16 13:48:31,300 : INFO : Test_Login : test_login01 : 48 : click to Logout Button
